@@ -2,7 +2,7 @@
 
 ●	It is a regression problem
 
-●   Various feature engineering techniques such as outlier detection and removal, encoding and scaling has been implemented.
+●   Various feature engineering techniques such as outlier detection and removal, encoding and scaling have been implemented.
 
 ●   8 Machine Learning Algorithms such as Decision Tree, Random Forest, SVM etc have been used for training.
 
